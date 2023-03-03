@@ -2,10 +2,10 @@ import { WheelModel } from './types';
 
 const wheels: WheelModel[] = [
   {
-    id: 1,
+    id: '1',
     brand: 'Bola',
     style: 'FP1(FORGED)',
-    price: '2419',
+    price: 2419,
     rating: 4.92,
     images: [
       'https://cdn4.wheelbasealloys.com/product-images/product-85332_11942_600.jpg',
@@ -14,10 +14,10 @@ const wheels: WheelModel[] = [
     ],
   },
   {
-    id: 2,
+    id: '2',
     brand: 'HRE Forged',
     style: 'C100',
-    price: '2854',
+    price: 2854,
     rating: 4.07,
     images: [
       'https://cdn4.wheelbasealloys.com/product-images/C100_67002_600.jpg',
@@ -26,10 +26,10 @@ const wheels: WheelModel[] = [
     ],
   },
   {
-    id: 3,
+    id: '3',
     brand: 'HRE Forged',
     style: '501M',
-    price: '3059',
+    price: 3059,
     rating: 4.80,
     images: [
       'https://cdn4.wheelbasealloys.com/product-images/501M_55688_600.jpg',
@@ -38,10 +38,10 @@ const wheels: WheelModel[] = [
     ],
   },
   {
-    id: 4,
+    id: '4',
     brand: 'MAM',
     style: 'B2',
-    price: '929',
+    price: 929,
     rating: 5.00,
     images: [
       'https://cdn4.wheelbasealloys.com/product-images/product-292346_106000_900.jpg',
@@ -50,10 +50,10 @@ const wheels: WheelModel[] = [
     ],
   },
   {
-    id: 5,
+    id: '5',
     brand: 'Japan Racing',
     style: 'JR37',
-    price: '1169',
+    price: 1169,
     rating: 4.45,
     images: [
       'https://cdn4.wheelbasealloys.com/product-images/product-495392_109521_900.jpg',
